@@ -3,7 +3,7 @@
         "a" : {
             "title": "News 1",
             "image": "news_1.png",
-            "content": "mock content News 1. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content.",
+            "content": "mock content News 1. This is a test content. This is a test contents. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content.",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
@@ -47,7 +47,7 @@
         "d" : {
             "title": "Regions 4",
             "image": "regions_4.png",
-            "content": "mock content Regions 4",
+            "content": "mock contents Regions 4",
             "update": "Jan 25, 2018 14:55"
         }
     },
@@ -99,7 +99,7 @@
         "d" : {
             "title": "TV 4",
             "image": "tv_4.png",
-            "content": "mock content TV 4",
+            "content": "mock contents TV 4",
             "update": "Jan 25, 2018 14:55"
         }
     }
