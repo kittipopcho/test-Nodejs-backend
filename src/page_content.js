@@ -6,3 +6,20 @@ export const getContentByType = async (type) => {
   return content[type]
 }
 
+
+export const getContentByText = async (text) => {
+  let type = Object.keys(content)
+  let element = Object.keys(content[type[0]])
+  let result = []
+  type.forEach(t => {
+    let element = Object.keys(content[t])
+    element.forEach(e => {
+      if (content[t][e].title.includes(text)) {
+        result.push(content[t][e])
+      } else if (content[t][e].title.includes(text)) {
+        result.push(content[t][e])
+      }
+    })
+  })
+  return result
+}

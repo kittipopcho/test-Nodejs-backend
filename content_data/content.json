@@ -9,7 +9,7 @@
         "b" : {
             "title": "News 2",
             "image": "news_2.png",
-            "content": "mock content News 2. This is a test content. This is a test content. This is a test content.",
+            "content": "mock contents News 2. This is a test content. This is a test content. This is a test content.",
             "update": "Jan 25, 2018 14:55"
         },
         "c" : {
@@ -21,7 +21,7 @@
         "d" : {
             "title": "News 4",
             "image": "news_4.png",
-            "content": "mock content News 4",
+            "content": "mock contents News 4",
             "update": "Jan 25, 2018 14:55"
         }
     },
@@ -35,7 +35,7 @@
         "b" : {
             "title": "Regions 2",
             "image": "regions_2.png",
-            "content": "mock content Regions 2",
+            "content": "mock contents Regions 2",
             "update": "Jan 25, 2018 14:55"
         },
         "c" : {
@@ -55,7 +55,7 @@
         "a" : {
             "title": "Videos 1",
             "image": "videos_1.png",
-            "content": "mock content Videos 1",
+            "content": "mock contents Videos 1",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
@@ -73,7 +73,7 @@
         "d" : {
             "title": "Videos 4",
             "image": "videos_4.png",
-            "content": "mock content Videos 4",
+            "content": "mock contents Videos 4",
             "update": "Jan 25, 2018 14:55"
         }
     },
@@ -81,7 +81,7 @@
         "a" : {
             "title": "TV 1",
             "image": "tv_1.png",
-            "content": "mock content TV 1",
+            "content": "mock contents TV 1",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
