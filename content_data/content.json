@@ -1,105 +1,105 @@
 {
     "News" : {
         "a" : {
-            "title": "News 1",
+            "title": "News 1. title can also be search. dotA2 is fun",
             "image": "news_1.png",
-            "content": "mock content News 1. This is a test content. This is a test contents. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content. This is a test content.",
+            "content": "mock content News 1. This is a test content. This is a test contents. Ant. Cat. Dog. bird. fish",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
             "title": "News 2",
             "image": "news_2.png",
-            "content": "mock contents News 2. This is a test content. This is a test content. This is a test content.",
+            "content": "mock contents News 2. This is a test content. This is a test content. This is a test content. Fish. cat ant",
             "update": "Jan 25, 2018 14:55"
         },
         "c" : {
-            "title": "News 3",
+            "title": "News 3. title can also be search. LOL",
             "image": "news_3.png",
-            "content": "mock content News 3",
+            "content": "mock content News 3. dog. cat. eel. tiger",
             "update": "Jan 25, 2018 14:55"
         },
         "d" : {
             "title": "News 4",
             "image": "news_4.png",
-            "content": "mock contents News 4",
+            "content": "mock contents News 4. doggo. diggy. husky. cAt. nutto",
             "update": "Jan 25, 2018 14:55"
         }
     },
     "Regions" : {
         "a" : {
-            "title": "Regions 1",
+            "title": "Regions 1. title can also be search. so fun reading reactjs",
             "image": "regions_1.png",
-            "content": "mock content Regions 1",
+            "content": "mock content Regions 1. Nut. too. float. Five. car. bin. and.",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
             "title": "Regions 2",
             "image": "regions_2.png",
-            "content": "mock contents Regions 2",
+            "content": "mock contents Regions 2. test. tought. reactjs. do.",
             "update": "Jan 25, 2018 14:55"
         },
         "c" : {
-            "title": "Regions 3",
+            "title": "Regions 3. title can also be search. what to do here",
             "image": "regions_3.png",
-            "content": "mock content Regions 3",
+            "content": "mock content Regions 3. go. gun. goose. cut. not. read. tree",
             "update": "Jan 25, 2018 14:55"
         },
         "d" : {
             "title": "Regions 4",
             "image": "regions_4.png",
-            "content": "mock contents Regions 4",
+            "content": "mock contents Regions 4. what. to. mock. more. than. this.",
             "update": "Jan 25, 2018 14:55"
         }
     },
     "Videos" : {
         "a" : {
-            "title": "Videos 1",
+            "title": "Videos 1. title can also be search. anna",
             "image": "videos_1.png",
-            "content": "mock contents Videos 1",
+            "content": "mock contents Videos 1. this. am. more. less. go. went. gone. gun. doG",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
             "title": "Videos 2",
             "image": "videos_2.png",
-            "content": "mock content Videos 2",
+            "content": "mock content Videos 2. All. features. done. in. three. days",
             "update": "Jan 25, 2018 14:55"
         },
         "c" : {
-            "title": "Videos 3",
+            "title": "Videos 3. title can also be search. what is a dog?",
             "image": "videos_3.png",
-            "content": "mock content Videos 3",
+            "content": "mock content Videos 3. so. long. mocking. process. Ha. Ha. Ha. anT. duck. dIg. does. dota2",
             "update": "Jan 25, 2018 14:55"
         },
         "d" : {
-            "title": "Videos 4",
+            "title": "Videos 4. title can also be search. Tvvvvvvvv",
             "image": "videos_4.png",
-            "content": "mock contents Videos 4",
+            "content": "mock contents Videos 4. fizz. fuzzy. linear. random. ant. in. the. yard. right. there",
             "update": "Jan 25, 2018 14:55"
         }
     },
     "TV" : {
         "a" : {
-            "title": "TV 1",
+            "title": "TV 1. title can also be search. ex. giOns",
             "image": "tv_1.png",
-            "content": "mock contents TV 1",
+            "content": "mock contents TV 1. almost. done. mocking. dataaaaaaaaa",
             "update": "Jan 25, 2018 14:55"
         },
         "b" : {
             "title": "TV 2",
             "image": "tv_2.png",
-            "content": "mock content TV 2",
+            "content": "mock content TV 2. dota2. is. so. toxic. bIrd. DoG. Queen. Right. nUt. nOT.",
             "update": "Jan 25, 2018 14:55"
         },
         "c" : {
             "title": "TV 3",
             "image": "tv_3.png",
-            "content": "mock content TV 3",
+            "content": "mock content TV 3. next. one. is. the. last. one. to. mock. ha. ha. ha.",
             "update": "Jan 25, 2018 14:55"
         },
         "d" : {
-            "title": "TV 4",
+            "title": "TV 4. title can also be search. ex. videoS",
             "image": "tv_4.png",
-            "content": "mock contents TV 4",
+            "content": "mock contents TV 4. what. am. i. doing. here. i should. start. unit. testing. process. Nutty. rain. dear. dog. duck. ant. birD",
             "update": "Jan 25, 2018 14:55"
         }
     }
