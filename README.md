@@ -11,3 +11,7 @@
 
 - docker build . -t backend_nodejs
 - docker run -p 3001:3001 -d backend_nodejs
+
+# run unit test
+
+- npm test
