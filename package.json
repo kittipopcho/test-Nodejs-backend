@@ -1,9 +1,18 @@
 {
     "type": "module",
     "dependencies": {
+        "@babel/plugin-syntax-import-assertions": "^7.17.12",
         "express": "^4.18.1"
     },
     "devDependencies": {
         "jest": "^28.1.0"
+    },
+    "scripts": {
+        "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    },
+    "jest": {
+        "transform": {
+            "^.+\\.(js|jsx)$": "babel-jest"
+        }
     }
 }
